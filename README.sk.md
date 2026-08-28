@@ -4,7 +4,7 @@
 
 ### Vreckové observatórium pre nepokojnú oblohu
 
-**[Stiahnuť](releases/CoreWeather-1.3.0.apk)** · Android 11+ · bez účtu · bez reklám
+**[Stiahnuť](https://github.com/stanochillart/CoreWeather/releases/download/v1.3.0/CoreWeather-1.3.0.apk)** · Android 11+ · bez účtu · bez reklám
 
 ---
 
@@ -28,6 +28,6 @@ Nie je to stanica, ktorá zmeria budúcnosť. Je to okno do toho, čo sa k tebe 
 
 ---
 
-**[Stiahnuť CoreWeather](releases/CoreWeather-1.3.0.apk)**
+**[Stiahnuť CoreWeather](https://github.com/stanochillart/CoreWeather/releases/download/v1.3.0/CoreWeather-1.3.0.apk)**
 
 StanoChillArt · [stanochillart.wordpress.com](https://stanochillart.wordpress.com/)
