@@ -1,4 +1,4 @@
-[English](README.md) · **Slovenčina**
+[English](https://stanochillart.github.io/CoreWeather/) · **Slovenčina** · [Čeština](https://stanochillart.github.io/CoreWeather/cs/) · [Polski](https://stanochillart.github.io/CoreWeather/pl/) · [Deutsch](https://stanochillart.github.io/CoreWeather/de/) · [Magyar](https://stanochillart.github.io/CoreWeather/hu/) · [Italiano](https://stanochillart.github.io/CoreWeather/it/) · [Español](https://stanochillart.github.io/CoreWeather/es/) · [日本語](https://stanochillart.github.io/CoreWeather/ja/) · [中文](https://stanochillart.github.io/CoreWeather/zh/)
 
 # CoreWeather
 
