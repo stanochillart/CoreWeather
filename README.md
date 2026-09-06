@@ -4,7 +4,7 @@
 
 ### A pocket observatory for a restless sky
 
-**[Download](https://github.com/stanochillart/CoreWeather/releases/download/v1.3.0/CoreWeather-1.3.0.apk)** · Android 11+ · no account · no ads
+**[Download](https://github.com/stanochillart/CoreWeather/releases/download/v1.4.0/CoreWeather-1.4.0.apk)** · Android 11+ · no account · no ads
 
 ---
 
@@ -28,6 +28,6 @@ This is not a station that measures the future. It is a window onto what is comi
 
 ---
 
-**[Download CoreWeather](https://github.com/stanochillart/CoreWeather/releases/download/v1.3.0/CoreWeather-1.3.0.apk)**
+**[Download CoreWeather](https://github.com/stanochillart/CoreWeather/releases/download/v1.4.0/CoreWeather-1.4.0.apk)**
 
 StanoChillArt · [stanochillart.wordpress.com](https://stanochillart.wordpress.com/)
